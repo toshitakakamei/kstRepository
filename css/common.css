@@ -56,5 +56,32 @@ img {
 	vertical-align: middle;
 }
 
+.header{
+	background-color:#0ba1eb;
+	border-bottm: 2px solid 10px;
+	padding: 5px 10px 5px 10px;
+}
 
+.header-logo img{
+	width: 100px;
+}
+
+.top-kv{
+	height:112px;
+	overflow:hidden;
+	position
+}
+
+.top-kv img {
+	width: 100;
+}
+
+.top-kv-cathc{
+	width:150px;
+
+}
+
+.top-sec{
+	padding:20px 10px 20px 10px;
+}
 
